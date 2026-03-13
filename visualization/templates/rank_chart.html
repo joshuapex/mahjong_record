@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { 
+            background: white; 
+            padding: 20px; 
+            font-family: 'Microsoft YaHei', sans-serif;
+            width: 900px;
+            margin: 0 auto;
+        }
+        h2 { 
+            text-align: center; 
+            color: #333;
+            margin: 10px 0 5px;
+        }
+        .subtitle {
+            text-align: center;
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+        .chart-container {
+            position: relative;
+            height: 500px;
+            width: 100%;
+        }
+        .legend {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-top: 15px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .legend-color {
+            width: 16px;
+            height: 16px;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <h2>🎴 玩家顺位分布</h2>
+    <div class="subtitle">总对局数：{{ total_games }} 局 | 玩家数：{{ player_count }}</div>
+    
+    <div class="chart-container">
+        <canvas id="rankChart"></canvas>
+    </div>
+    
+    <div class="legend">
+        <div class="legend-item"><span class="legend-color" style="background:#FFD700;"></span> 一位</div>
+        <div class="legend-item"><span class="legend-color" style="background:#C0C0C0;"></span> 二位</div>
+        <div class="legend-item"><span class="legend-color" style="background:#CD7F32;"></span> 三位</div>
+        <div class="legend-item"><span class="legend-color" style="background:#9E9E9E;"></span> 四位</div>
+    </div>
+    
+    <script>
+        const ctx = document.getElementById('rankChart').getContext('2d');
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: {{ players|safe }},
+                datasets: [
+                    {
+                        label: '一位',
+                        data: {{ rank1|safe }},
+                        backgroundColor: '#FFD700',
+                        stack: 'stack0'
+                    },
+                    {
+                        label: '二位',
+                        data: {{ rank2|safe }},
+                        backgroundColor: '#C0C0C0',
+                        stack: 'stack0'
+                    },
+                    {
+                        label: '三位',
+                        data: {{ rank3|safe }},
+                        backgroundColor: '#CD7F32',
+                        stack: 'stack0'
+                    },
+                    {
+                        label: '四位',
+                        data: {{ rank4|safe }},
+                        backgroundColor: '#9E9E9E',
+                        stack: 'stack0'
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                return context.dataset.label + ': ' + context.raw + '局';
+                            }
+                        }
+                    }
+                },
+                scales: {
+                    x: {
+                        stacked: true,
+                        title: {
+                            display: true,
+                            text: '玩家'
+                        }
+                    },
+                    y: {
+                        stacked: true,
+                        beginAtZero: true,
+                        title: {
+                            display: true,
+                            text: '对局数'
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

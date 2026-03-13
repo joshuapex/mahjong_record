@@ -1,0 +1,3152 @@
+[
+  {
+    "session_id": "1000",
+    "settle_time": "2026-03-12T21:44:11.751863",
+    "created_at": "2026-03-12T21:14:11.751863",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 23987,
+        "timestamp": "2026-03-12T21:44:11.751863"
+      },
+      {
+        "qq": "10006",
+        "nickname": "小红",
+        "score": 25617,
+        "timestamp": "2026-03-12T21:44:11.751863"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 22751,
+        "timestamp": "2026-03-12T21:44:11.751863"
+      },
+      {
+        "qq": "10005",
+        "nickname": "小明",
+        "score": 27645,
+        "timestamp": "2026-03-12T21:44:11.751863"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "小明",
+        "qq": "10005",
+        "score": 27645,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "小红",
+        "qq": "10006",
+        "score": 25617,
+        "diff_from_first": 2.0
+      },
+      {
+        "rank": 3,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 23987,
+        "diff_from_first": 3.7
+      },
+      {
+        "rank": 4,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 22751,
+        "diff_from_first": 4.9
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1001",
+    "settle_time": "2026-03-11T21:44:11.751932",
+    "created_at": "2026-03-11T21:14:11.751932",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 23388,
+        "timestamp": "2026-03-11T21:44:11.751932"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 29190,
+        "timestamp": "2026-03-11T21:44:11.751932"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 25455,
+        "timestamp": "2026-03-11T21:44:11.751932"
+      },
+      {
+        "qq": "10005",
+        "nickname": "小明",
+        "score": 21967,
+        "timestamp": "2026-03-11T21:44:11.751932"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 29190,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 25455,
+        "diff_from_first": 3.7
+      },
+      {
+        "rank": 3,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 23388,
+        "diff_from_first": 5.8
+      },
+      {
+        "rank": 4,
+        "nickname": "小明",
+        "qq": "10005",
+        "score": 21967,
+        "diff_from_first": 7.2
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1002",
+    "settle_time": "2026-03-10T21:44:11.751955",
+    "created_at": "2026-03-10T21:14:11.751955",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 27879,
+        "timestamp": "2026-03-10T21:44:11.751955"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 30397,
+        "timestamp": "2026-03-10T21:44:11.751955"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 29754,
+        "timestamp": "2026-03-10T21:44:11.751955"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 11970,
+        "timestamp": "2026-03-10T21:44:11.751955"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 30397,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 29754,
+        "diff_from_first": 0.6
+      },
+      {
+        "rank": 3,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 27879,
+        "diff_from_first": 2.5
+      },
+      {
+        "rank": 4,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 11970,
+        "diff_from_first": 18.4
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1003",
+    "settle_time": "2026-03-09T21:44:11.751970",
+    "created_at": "2026-03-09T21:14:11.751970",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 19429,
+        "timestamp": "2026-03-09T21:44:11.751970"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 26256,
+        "timestamp": "2026-03-09T21:44:11.751970"
+      },
+      {
+        "qq": "10006",
+        "nickname": "小红",
+        "score": 19662,
+        "timestamp": "2026-03-09T21:44:11.751970"
+      },
+      {
+        "qq": "10003",
+        "nickname": "西风",
+        "score": 34653,
+        "timestamp": "2026-03-09T21:44:11.751970"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "西风",
+        "qq": "10003",
+        "score": 34653,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 26256,
+        "diff_from_first": 8.4
+      },
+      {
+        "rank": 3,
+        "nickname": "小红",
+        "qq": "10006",
+        "score": 19662,
+        "diff_from_first": 15.0
+      },
+      {
+        "rank": 4,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 19429,
+        "diff_from_first": 15.2
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1004",
+    "settle_time": "2026-03-08T21:44:11.751984",
+    "created_at": "2026-03-08T21:14:11.751984",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 19166,
+        "timestamp": "2026-03-08T21:44:11.751984"
+      },
+      {
+        "qq": "10007",
+        "nickname": "小张",
+        "score": 24760,
+        "timestamp": "2026-03-08T21:44:11.751984"
+      },
+      {
+        "qq": "10005",
+        "nickname": "小明",
+        "score": 26923,
+        "timestamp": "2026-03-08T21:44:11.751984"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 29151,
+        "timestamp": "2026-03-08T21:44:11.751984"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 29151,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "小明",
+        "qq": "10005",
+        "score": 26923,
+        "diff_from_first": 2.2
+      },
+      {
+        "rank": 3,
+        "nickname": "小张",
+        "qq": "10007",
+        "score": 24760,
+        "diff_from_first": 4.4
+      },
+      {
+        "rank": 4,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 19166,
+        "diff_from_first": 10.0
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1005",
+    "settle_time": "2026-03-07T21:44:11.751997",
+    "created_at": "2026-03-07T21:14:11.751997",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 21087,
+        "timestamp": "2026-03-07T21:44:11.751997"
+      },
+      {
+        "qq": "10005",
+        "nickname": "小明",
+        "score": 21576,
+        "timestamp": "2026-03-07T21:44:11.751997"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 28242,
+        "timestamp": "2026-03-07T21:44:11.751997"
+      },
+      {
+        "qq": "10007",
+        "nickname": "小张",
+        "score": 29095,
+        "timestamp": "2026-03-07T21:44:11.751997"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "小张",
+        "qq": "10007",
+        "score": 29095,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 28242,
+        "diff_from_first": 0.9
+      },
+      {
+        "rank": 3,
+        "nickname": "小明",
+        "qq": "10005",
+        "score": 21576,
+        "diff_from_first": 7.5
+      },
+      {
+        "rank": 4,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 21087,
+        "diff_from_first": 8.0
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1006",
+    "settle_time": "2026-03-06T21:44:11.752009",
+    "created_at": "2026-03-06T21:14:11.752009",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 22139,
+        "timestamp": "2026-03-06T21:44:11.752009"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 28761,
+        "timestamp": "2026-03-06T21:44:11.752009"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 25316,
+        "timestamp": "2026-03-06T21:44:11.752009"
+      },
+      {
+        "qq": "10003",
+        "nickname": "西风",
+        "score": 23784,
+        "timestamp": "2026-03-06T21:44:11.752009"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 28761,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 25316,
+        "diff_from_first": 3.4
+      },
+      {
+        "rank": 3,
+        "nickname": "西风",
+        "qq": "10003",
+        "score": 23784,
+        "diff_from_first": 5.0
+      },
+      {
+        "rank": 4,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 22139,
+        "diff_from_first": 6.6
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1007",
+    "settle_time": "2026-03-05T21:44:11.752021",
+    "created_at": "2026-03-05T21:14:11.752021",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 27071,
+        "timestamp": "2026-03-05T21:44:11.752021"
+      },
+      {
+        "qq": "10006",
+        "nickname": "小红",
+        "score": 20680,
+        "timestamp": "2026-03-05T21:44:11.752021"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 25782,
+        "timestamp": "2026-03-05T21:44:11.752021"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 26467,
+        "timestamp": "2026-03-05T21:44:11.752021"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 27071,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 26467,
+        "diff_from_first": 0.6
+      },
+      {
+        "rank": 3,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 25782,
+        "diff_from_first": 1.3
+      },
+      {
+        "rank": 4,
+        "nickname": "小红",
+        "qq": "10006",
+        "score": 20680,
+        "diff_from_first": 6.4
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1008",
+    "settle_time": "2026-03-04T21:44:11.752032",
+    "created_at": "2026-03-04T21:14:11.752032",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 26615,
+        "timestamp": "2026-03-04T21:44:11.752032"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 20001,
+        "timestamp": "2026-03-04T21:44:11.752032"
+      },
+      {
+        "qq": "10007",
+        "nickname": "小张",
+        "score": 23837,
+        "timestamp": "2026-03-04T21:44:11.752032"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 29547,
+        "timestamp": "2026-03-04T21:44:11.752032"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 29547,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 26615,
+        "diff_from_first": 2.9
+      },
+      {
+        "rank": 3,
+        "nickname": "小张",
+        "qq": "10007",
+        "score": 23837,
+        "diff_from_first": 5.7
+      },
+      {
+        "rank": 4,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 20001,
+        "diff_from_first": 9.5
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1009",
+    "settle_time": "2026-03-03T21:44:11.752045",
+    "created_at": "2026-03-03T21:14:11.752045",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 24761,
+        "timestamp": "2026-03-03T21:44:11.752045"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 25396,
+        "timestamp": "2026-03-03T21:44:11.752045"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 29920,
+        "timestamp": "2026-03-03T21:44:11.752045"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 19923,
+        "timestamp": "2026-03-03T21:44:11.752045"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 29920,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 25396,
+        "diff_from_first": 4.5
+      },
+      {
+        "rank": 3,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 24761,
+        "diff_from_first": 5.2
+      },
+      {
+        "rank": 4,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 19923,
+        "diff_from_first": 10.0
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1010",
+    "settle_time": "2026-03-02T21:44:11.752057",
+    "created_at": "2026-03-02T21:14:11.752057",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 30349,
+        "timestamp": "2026-03-02T21:44:11.752057"
+      },
+      {
+        "qq": "10005",
+        "nickname": "小明",
+        "score": 20181,
+        "timestamp": "2026-03-02T21:44:11.752057"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 20986,
+        "timestamp": "2026-03-02T21:44:11.752057"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 28484,
+        "timestamp": "2026-03-02T21:44:11.752057"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 30349,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 28484,
+        "diff_from_first": 1.9
+      },
+      {
+        "rank": 3,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 20986,
+        "diff_from_first": 9.4
+      },
+      {
+        "rank": 4,
+        "nickname": "小明",
+        "qq": "10005",
+        "score": 20181,
+        "diff_from_first": 10.2
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1011",
+    "settle_time": "2026-03-01T21:44:11.752071",
+    "created_at": "2026-03-01T21:14:11.752071",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 25336,
+        "timestamp": "2026-03-01T21:44:11.752071"
+      },
+      {
+        "qq": "10003",
+        "nickname": "西风",
+        "score": 26032,
+        "timestamp": "2026-03-01T21:44:11.752071"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 29740,
+        "timestamp": "2026-03-01T21:44:11.752071"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 18892,
+        "timestamp": "2026-03-01T21:44:11.752071"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 29740,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "西风",
+        "qq": "10003",
+        "score": 26032,
+        "diff_from_first": 3.7
+      },
+      {
+        "rank": 3,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 25336,
+        "diff_from_first": 4.4
+      },
+      {
+        "rank": 4,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 18892,
+        "diff_from_first": 10.8
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1012",
+    "settle_time": "2026-02-28T21:44:11.752083",
+    "created_at": "2026-02-28T21:14:11.752083",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 28324,
+        "timestamp": "2026-02-28T21:44:11.752083"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 29843,
+        "timestamp": "2026-02-28T21:44:11.752083"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 26134,
+        "timestamp": "2026-02-28T21:44:11.752083"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 15699,
+        "timestamp": "2026-02-28T21:44:11.752083"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 29843,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 28324,
+        "diff_from_first": 1.5
+      },
+      {
+        "rank": 3,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 26134,
+        "diff_from_first": 3.7
+      },
+      {
+        "rank": 4,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 15699,
+        "diff_from_first": 14.1
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1013",
+    "settle_time": "2026-02-27T21:44:11.752096",
+    "created_at": "2026-02-27T21:14:11.752096",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 23541,
+        "timestamp": "2026-02-27T21:44:11.752096"
+      },
+      {
+        "qq": "10006",
+        "nickname": "小红",
+        "score": 20549,
+        "timestamp": "2026-02-27T21:44:11.752096"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 29782,
+        "timestamp": "2026-02-27T21:44:11.752096"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 26128,
+        "timestamp": "2026-02-27T21:44:11.752096"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 29782,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 26128,
+        "diff_from_first": 3.7
+      },
+      {
+        "rank": 3,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 23541,
+        "diff_from_first": 6.2
+      },
+      {
+        "rank": 4,
+        "nickname": "小红",
+        "qq": "10006",
+        "score": 20549,
+        "diff_from_first": 9.2
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1014",
+    "settle_time": "2026-02-26T21:44:11.752108",
+    "created_at": "2026-02-26T21:14:11.752108",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 25908,
+        "timestamp": "2026-02-26T21:44:11.752108"
+      },
+      {
+        "qq": "10006",
+        "nickname": "小红",
+        "score": 28305,
+        "timestamp": "2026-02-26T21:44:11.752108"
+      },
+      {
+        "qq": "10007",
+        "nickname": "小张",
+        "score": 27295,
+        "timestamp": "2026-02-26T21:44:11.752108"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 18492,
+        "timestamp": "2026-02-26T21:44:11.752108"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "小红",
+        "qq": "10006",
+        "score": 28305,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "小张",
+        "qq": "10007",
+        "score": 27295,
+        "diff_from_first": 1.0
+      },
+      {
+        "rank": 3,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 25908,
+        "diff_from_first": 2.4
+      },
+      {
+        "rank": 4,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 18492,
+        "diff_from_first": 9.8
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1015",
+    "settle_time": "2026-02-25T21:44:11.752124",
+    "created_at": "2026-02-25T21:14:11.752124",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 29701,
+        "timestamp": "2026-02-25T21:44:11.752124"
+      },
+      {
+        "qq": "10005",
+        "nickname": "小明",
+        "score": 28545,
+        "timestamp": "2026-02-25T21:44:11.752124"
+      },
+      {
+        "qq": "10007",
+        "nickname": "小张",
+        "score": 24396,
+        "timestamp": "2026-02-25T21:44:11.752124"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 17358,
+        "timestamp": "2026-02-25T21:44:11.752124"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 29701,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "小明",
+        "qq": "10005",
+        "score": 28545,
+        "diff_from_first": 1.2
+      },
+      {
+        "rank": 3,
+        "nickname": "小张",
+        "qq": "10007",
+        "score": 24396,
+        "diff_from_first": 5.3
+      },
+      {
+        "rank": 4,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 17358,
+        "diff_from_first": 12.3
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1016",
+    "settle_time": "2026-02-24T21:44:11.752136",
+    "created_at": "2026-02-24T21:14:11.752136",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 26985,
+        "timestamp": "2026-02-24T21:44:11.752136"
+      },
+      {
+        "qq": "10006",
+        "nickname": "小红",
+        "score": 23804,
+        "timestamp": "2026-02-24T21:44:11.752136"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 24716,
+        "timestamp": "2026-02-24T21:44:11.752136"
+      },
+      {
+        "qq": "10003",
+        "nickname": "西风",
+        "score": 24495,
+        "timestamp": "2026-02-24T21:44:11.752136"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 26985,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 24716,
+        "diff_from_first": 2.3
+      },
+      {
+        "rank": 3,
+        "nickname": "西风",
+        "qq": "10003",
+        "score": 24495,
+        "diff_from_first": 2.5
+      },
+      {
+        "rank": 4,
+        "nickname": "小红",
+        "qq": "10006",
+        "score": 23804,
+        "diff_from_first": 3.2
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1017",
+    "settle_time": "2026-02-23T21:44:11.752148",
+    "created_at": "2026-02-23T21:14:11.752148",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 21420,
+        "timestamp": "2026-02-23T21:44:11.752148"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 28348,
+        "timestamp": "2026-02-23T21:44:11.752148"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 30571,
+        "timestamp": "2026-02-23T21:44:11.752148"
+      },
+      {
+        "qq": "10003",
+        "nickname": "西风",
+        "score": 19661,
+        "timestamp": "2026-02-23T21:44:11.752148"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 30571,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 28348,
+        "diff_from_first": 2.2
+      },
+      {
+        "rank": 3,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 21420,
+        "diff_from_first": 9.2
+      },
+      {
+        "rank": 4,
+        "nickname": "西风",
+        "qq": "10003",
+        "score": 19661,
+        "diff_from_first": 10.9
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1018",
+    "settle_time": "2026-02-22T21:44:11.752159",
+    "created_at": "2026-02-22T21:14:11.752159",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 21476,
+        "timestamp": "2026-02-22T21:44:11.752159"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 23636,
+        "timestamp": "2026-02-22T21:44:11.752159"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 30080,
+        "timestamp": "2026-02-22T21:44:11.752159"
+      },
+      {
+        "qq": "10006",
+        "nickname": "小红",
+        "score": 24808,
+        "timestamp": "2026-02-22T21:44:11.752159"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 30080,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "小红",
+        "qq": "10006",
+        "score": 24808,
+        "diff_from_first": 5.3
+      },
+      {
+        "rank": 3,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 23636,
+        "diff_from_first": 6.4
+      },
+      {
+        "rank": 4,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 21476,
+        "diff_from_first": 8.6
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1019",
+    "settle_time": "2026-02-21T21:44:11.752172",
+    "created_at": "2026-02-21T21:14:11.752172",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 24048,
+        "timestamp": "2026-02-21T21:44:11.752172"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 22600,
+        "timestamp": "2026-02-21T21:44:11.752172"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 21032,
+        "timestamp": "2026-02-21T21:44:11.752172"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 32320,
+        "timestamp": "2026-02-21T21:44:11.752172"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 32320,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 24048,
+        "diff_from_first": 8.3
+      },
+      {
+        "rank": 3,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 22600,
+        "diff_from_first": 9.7
+      },
+      {
+        "rank": 4,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 21032,
+        "diff_from_first": 11.3
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1020",
+    "settle_time": "2026-02-20T21:44:11.752184",
+    "created_at": "2026-02-20T21:14:11.752184",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 19898,
+        "timestamp": "2026-02-20T21:44:11.752184"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 20408,
+        "timestamp": "2026-02-20T21:44:11.752184"
+      },
+      {
+        "qq": "10005",
+        "nickname": "小明",
+        "score": 20321,
+        "timestamp": "2026-02-20T21:44:11.752184"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 39373,
+        "timestamp": "2026-02-20T21:44:11.752184"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 39373,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 20408,
+        "diff_from_first": 19.0
+      },
+      {
+        "rank": 3,
+        "nickname": "小明",
+        "qq": "10005",
+        "score": 20321,
+        "diff_from_first": 19.1
+      },
+      {
+        "rank": 4,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 19898,
+        "diff_from_first": 19.5
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1021",
+    "settle_time": "2026-02-19T21:44:11.752198",
+    "created_at": "2026-02-19T21:14:11.752198",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 25257,
+        "timestamp": "2026-02-19T21:44:11.752198"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 24337,
+        "timestamp": "2026-02-19T21:44:11.752198"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 24343,
+        "timestamp": "2026-02-19T21:44:11.752198"
+      },
+      {
+        "qq": "10007",
+        "nickname": "小张",
+        "score": 26063,
+        "timestamp": "2026-02-19T21:44:11.752198"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "小张",
+        "qq": "10007",
+        "score": 26063,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 25257,
+        "diff_from_first": 0.8
+      },
+      {
+        "rank": 3,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 24343,
+        "diff_from_first": 1.7
+      },
+      {
+        "rank": 4,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 24337,
+        "diff_from_first": 1.7
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1022",
+    "settle_time": "2026-02-18T21:44:11.752209",
+    "created_at": "2026-02-18T21:14:11.752209",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 25795,
+        "timestamp": "2026-02-18T21:44:11.752209"
+      },
+      {
+        "qq": "10005",
+        "nickname": "小明",
+        "score": 21631,
+        "timestamp": "2026-02-18T21:44:11.752209"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 25862,
+        "timestamp": "2026-02-18T21:44:11.752209"
+      },
+      {
+        "qq": "10006",
+        "nickname": "小红",
+        "score": 26712,
+        "timestamp": "2026-02-18T21:44:11.752209"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "小红",
+        "qq": "10006",
+        "score": 26712,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 25862,
+        "diff_from_first": 0.8
+      },
+      {
+        "rank": 3,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 25795,
+        "diff_from_first": 0.9
+      },
+      {
+        "rank": 4,
+        "nickname": "小明",
+        "qq": "10005",
+        "score": 21631,
+        "diff_from_first": 5.1
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1023",
+    "settle_time": "2026-02-17T21:44:11.752224",
+    "created_at": "2026-02-17T21:14:11.752224",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 25070,
+        "timestamp": "2026-02-17T21:44:11.752224"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 21457,
+        "timestamp": "2026-02-17T21:44:11.752224"
+      },
+      {
+        "qq": "10006",
+        "nickname": "小红",
+        "score": 21955,
+        "timestamp": "2026-02-17T21:44:11.752224"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 31518,
+        "timestamp": "2026-02-17T21:44:11.752224"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 31518,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 25070,
+        "diff_from_first": 6.4
+      },
+      {
+        "rank": 3,
+        "nickname": "小红",
+        "qq": "10006",
+        "score": 21955,
+        "diff_from_first": 9.6
+      },
+      {
+        "rank": 4,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 21457,
+        "diff_from_first": 10.1
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1024",
+    "settle_time": "2026-02-16T21:44:11.752236",
+    "created_at": "2026-02-16T21:14:11.752236",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 29259,
+        "timestamp": "2026-02-16T21:44:11.752236"
+      },
+      {
+        "qq": "10003",
+        "nickname": "西风",
+        "score": 20037,
+        "timestamp": "2026-02-16T21:44:11.752236"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 28008,
+        "timestamp": "2026-02-16T21:44:11.752236"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 22696,
+        "timestamp": "2026-02-16T21:44:11.752236"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 29259,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 28008,
+        "diff_from_first": 1.3
+      },
+      {
+        "rank": 3,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 22696,
+        "diff_from_first": 6.6
+      },
+      {
+        "rank": 4,
+        "nickname": "西风",
+        "qq": "10003",
+        "score": 20037,
+        "diff_from_first": 9.2
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1025",
+    "settle_time": "2026-02-15T21:44:11.752248",
+    "created_at": "2026-02-15T21:14:11.752248",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 26514,
+        "timestamp": "2026-02-15T21:44:11.752248"
+      },
+      {
+        "qq": "10007",
+        "nickname": "小张",
+        "score": 21453,
+        "timestamp": "2026-02-15T21:44:11.752248"
+      },
+      {
+        "qq": "10005",
+        "nickname": "小明",
+        "score": 27755,
+        "timestamp": "2026-02-15T21:44:11.752248"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 24278,
+        "timestamp": "2026-02-15T21:44:11.752248"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "小明",
+        "qq": "10005",
+        "score": 27755,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 26514,
+        "diff_from_first": 1.2
+      },
+      {
+        "rank": 3,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 24278,
+        "diff_from_first": 3.5
+      },
+      {
+        "rank": 4,
+        "nickname": "小张",
+        "qq": "10007",
+        "score": 21453,
+        "diff_from_first": 6.3
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1026",
+    "settle_time": "2026-02-14T21:44:11.752260",
+    "created_at": "2026-02-14T21:14:11.752260",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 19607,
+        "timestamp": "2026-02-14T21:44:11.752260"
+      },
+      {
+        "qq": "10003",
+        "nickname": "西风",
+        "score": 23964,
+        "timestamp": "2026-02-14T21:44:11.752260"
+      },
+      {
+        "qq": "10005",
+        "nickname": "小明",
+        "score": 30854,
+        "timestamp": "2026-02-14T21:44:11.752260"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 25575,
+        "timestamp": "2026-02-14T21:44:11.752260"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "小明",
+        "qq": "10005",
+        "score": 30854,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 25575,
+        "diff_from_first": 5.3
+      },
+      {
+        "rank": 3,
+        "nickname": "西风",
+        "qq": "10003",
+        "score": 23964,
+        "diff_from_first": 6.9
+      },
+      {
+        "rank": 4,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 19607,
+        "diff_from_first": 11.2
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1027",
+    "settle_time": "2026-02-13T21:44:11.752273",
+    "created_at": "2026-02-13T21:14:11.752273",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 26429,
+        "timestamp": "2026-02-13T21:44:11.752273"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 19386,
+        "timestamp": "2026-02-13T21:44:11.752273"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 25920,
+        "timestamp": "2026-02-13T21:44:11.752273"
+      },
+      {
+        "qq": "10006",
+        "nickname": "小红",
+        "score": 28265,
+        "timestamp": "2026-02-13T21:44:11.752273"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "小红",
+        "qq": "10006",
+        "score": 28265,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 26429,
+        "diff_from_first": 1.8
+      },
+      {
+        "rank": 3,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 25920,
+        "diff_from_first": 2.3
+      },
+      {
+        "rank": 4,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 19386,
+        "diff_from_first": 8.9
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1028",
+    "settle_time": "2026-02-12T21:44:11.752285",
+    "created_at": "2026-02-12T21:14:11.752285",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 30415,
+        "timestamp": "2026-02-12T21:44:11.752285"
+      },
+      {
+        "qq": "10007",
+        "nickname": "小张",
+        "score": 28505,
+        "timestamp": "2026-02-12T21:44:11.752285"
+      },
+      {
+        "qq": "10005",
+        "nickname": "小明",
+        "score": 25027,
+        "timestamp": "2026-02-12T21:44:11.752285"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 16053,
+        "timestamp": "2026-02-12T21:44:11.752285"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 30415,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "小张",
+        "qq": "10007",
+        "score": 28505,
+        "diff_from_first": 1.9
+      },
+      {
+        "rank": 3,
+        "nickname": "小明",
+        "qq": "10005",
+        "score": 25027,
+        "diff_from_first": 5.4
+      },
+      {
+        "rank": 4,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 16053,
+        "diff_from_first": 14.4
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1029",
+    "settle_time": "2026-02-11T21:44:11.752296",
+    "created_at": "2026-02-11T21:14:11.752296",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 25750,
+        "timestamp": "2026-02-11T21:44:11.752296"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 27464,
+        "timestamp": "2026-02-11T21:44:11.752296"
+      },
+      {
+        "qq": "10003",
+        "nickname": "西风",
+        "score": 30764,
+        "timestamp": "2026-02-11T21:44:11.752296"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 16022,
+        "timestamp": "2026-02-11T21:44:11.752296"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "西风",
+        "qq": "10003",
+        "score": 30764,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 27464,
+        "diff_from_first": 3.3
+      },
+      {
+        "rank": 3,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 25750,
+        "diff_from_first": 5.0
+      },
+      {
+        "rank": 4,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 16022,
+        "diff_from_first": 14.7
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1030",
+    "settle_time": "2026-02-10T21:44:11.752311",
+    "created_at": "2026-02-10T21:14:11.752311",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 29721,
+        "timestamp": "2026-02-10T21:44:11.752311"
+      },
+      {
+        "qq": "10006",
+        "nickname": "小红",
+        "score": 29127,
+        "timestamp": "2026-02-10T21:44:11.752311"
+      },
+      {
+        "qq": "10005",
+        "nickname": "小明",
+        "score": 23436,
+        "timestamp": "2026-02-10T21:44:11.752311"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 17716,
+        "timestamp": "2026-02-10T21:44:11.752311"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 29721,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "小红",
+        "qq": "10006",
+        "score": 29127,
+        "diff_from_first": 0.6
+      },
+      {
+        "rank": 3,
+        "nickname": "小明",
+        "qq": "10005",
+        "score": 23436,
+        "diff_from_first": 6.3
+      },
+      {
+        "rank": 4,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 17716,
+        "diff_from_first": 12.0
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1031",
+    "settle_time": "2026-02-09T21:44:11.752323",
+    "created_at": "2026-02-09T21:14:11.752323",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 23395,
+        "timestamp": "2026-02-09T21:44:11.752323"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 24001,
+        "timestamp": "2026-02-09T21:44:11.752323"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 28982,
+        "timestamp": "2026-02-09T21:44:11.752323"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 23622,
+        "timestamp": "2026-02-09T21:44:11.752323"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 28982,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 24001,
+        "diff_from_first": 5.0
+      },
+      {
+        "rank": 3,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 23622,
+        "diff_from_first": 5.4
+      },
+      {
+        "rank": 4,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 23395,
+        "diff_from_first": 5.6
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1032",
+    "settle_time": "2026-02-08T21:44:11.752335",
+    "created_at": "2026-02-08T21:14:11.752335",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 30338,
+        "timestamp": "2026-02-08T21:44:11.752335"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 22647,
+        "timestamp": "2026-02-08T21:44:11.752335"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 26396,
+        "timestamp": "2026-02-08T21:44:11.752335"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 20619,
+        "timestamp": "2026-02-08T21:44:11.752335"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 30338,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 26396,
+        "diff_from_first": 3.9
+      },
+      {
+        "rank": 3,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 22647,
+        "diff_from_first": 7.7
+      },
+      {
+        "rank": 4,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 20619,
+        "diff_from_first": 9.7
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1033",
+    "settle_time": "2026-02-07T21:44:11.752347",
+    "created_at": "2026-02-07T21:14:11.752347",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 23010,
+        "timestamp": "2026-02-07T21:44:11.752347"
+      },
+      {
+        "qq": "10003",
+        "nickname": "西风",
+        "score": 20673,
+        "timestamp": "2026-02-07T21:44:11.752347"
+      },
+      {
+        "qq": "10005",
+        "nickname": "小明",
+        "score": 24024,
+        "timestamp": "2026-02-07T21:44:11.752347"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 32293,
+        "timestamp": "2026-02-07T21:44:11.752347"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 32293,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "小明",
+        "qq": "10005",
+        "score": 24024,
+        "diff_from_first": 8.3
+      },
+      {
+        "rank": 3,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 23010,
+        "diff_from_first": 9.3
+      },
+      {
+        "rank": 4,
+        "nickname": "西风",
+        "qq": "10003",
+        "score": 20673,
+        "diff_from_first": 11.6
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1034",
+    "settle_time": "2026-02-06T21:44:11.752359",
+    "created_at": "2026-02-06T21:14:11.752359",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 27944,
+        "timestamp": "2026-02-06T21:44:11.752359"
+      },
+      {
+        "qq": "10005",
+        "nickname": "小明",
+        "score": 22078,
+        "timestamp": "2026-02-06T21:44:11.752359"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 19406,
+        "timestamp": "2026-02-06T21:44:11.752359"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 30572,
+        "timestamp": "2026-02-06T21:44:11.752359"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 30572,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 27944,
+        "diff_from_first": 2.6
+      },
+      {
+        "rank": 3,
+        "nickname": "小明",
+        "qq": "10005",
+        "score": 22078,
+        "diff_from_first": 8.5
+      },
+      {
+        "rank": 4,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 19406,
+        "diff_from_first": 11.2
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1035",
+    "settle_time": "2026-02-05T21:44:11.752371",
+    "created_at": "2026-02-05T21:14:11.752371",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 23382,
+        "timestamp": "2026-02-05T21:44:11.752371"
+      },
+      {
+        "qq": "10007",
+        "nickname": "小张",
+        "score": 26394,
+        "timestamp": "2026-02-05T21:44:11.752371"
+      },
+      {
+        "qq": "10006",
+        "nickname": "小红",
+        "score": 27408,
+        "timestamp": "2026-02-05T21:44:11.752371"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 22816,
+        "timestamp": "2026-02-05T21:44:11.752371"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "小红",
+        "qq": "10006",
+        "score": 27408,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "小张",
+        "qq": "10007",
+        "score": 26394,
+        "diff_from_first": 1.0
+      },
+      {
+        "rank": 3,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 23382,
+        "diff_from_first": 4.0
+      },
+      {
+        "rank": 4,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 22816,
+        "diff_from_first": 4.6
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1036",
+    "settle_time": "2026-02-04T21:44:11.752383",
+    "created_at": "2026-02-04T21:14:11.752383",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 30075,
+        "timestamp": "2026-02-04T21:44:11.752383"
+      },
+      {
+        "qq": "10003",
+        "nickname": "西风",
+        "score": 22856,
+        "timestamp": "2026-02-04T21:44:11.752383"
+      },
+      {
+        "qq": "10007",
+        "nickname": "小张",
+        "score": 29411,
+        "timestamp": "2026-02-04T21:44:11.752383"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 17658,
+        "timestamp": "2026-02-04T21:44:11.752383"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 30075,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "小张",
+        "qq": "10007",
+        "score": 29411,
+        "diff_from_first": 0.7
+      },
+      {
+        "rank": 3,
+        "nickname": "西风",
+        "qq": "10003",
+        "score": 22856,
+        "diff_from_first": 7.2
+      },
+      {
+        "rank": 4,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 17658,
+        "diff_from_first": 12.4
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1037",
+    "settle_time": "2026-02-03T21:44:11.752395",
+    "created_at": "2026-02-03T21:14:11.752395",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 27578,
+        "timestamp": "2026-02-03T21:44:11.752395"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 22027,
+        "timestamp": "2026-02-03T21:44:11.752395"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 25234,
+        "timestamp": "2026-02-03T21:44:11.752395"
+      },
+      {
+        "qq": "10003",
+        "nickname": "西风",
+        "score": 25161,
+        "timestamp": "2026-02-03T21:44:11.752395"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 27578,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 25234,
+        "diff_from_first": 2.3
+      },
+      {
+        "rank": 3,
+        "nickname": "西风",
+        "qq": "10003",
+        "score": 25161,
+        "diff_from_first": 2.4
+      },
+      {
+        "rank": 4,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 22027,
+        "diff_from_first": 5.6
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1038",
+    "settle_time": "2026-02-02T21:44:11.752407",
+    "created_at": "2026-02-02T21:14:11.752407",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 19070,
+        "timestamp": "2026-02-02T21:44:11.752407"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 24682,
+        "timestamp": "2026-02-02T21:44:11.752407"
+      },
+      {
+        "qq": "10003",
+        "nickname": "西风",
+        "score": 30442,
+        "timestamp": "2026-02-02T21:44:11.752407"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 25806,
+        "timestamp": "2026-02-02T21:44:11.752407"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "西风",
+        "qq": "10003",
+        "score": 30442,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 25806,
+        "diff_from_first": 4.6
+      },
+      {
+        "rank": 3,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 24682,
+        "diff_from_first": 5.8
+      },
+      {
+        "rank": 4,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 19070,
+        "diff_from_first": 11.4
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1039",
+    "settle_time": "2026-02-01T21:44:11.752420",
+    "created_at": "2026-02-01T21:14:11.752420",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 23836,
+        "timestamp": "2026-02-01T21:44:11.752420"
+      },
+      {
+        "qq": "10003",
+        "nickname": "西风",
+        "score": 21180,
+        "timestamp": "2026-02-01T21:44:11.752420"
+      },
+      {
+        "qq": "10006",
+        "nickname": "小红",
+        "score": 20966,
+        "timestamp": "2026-02-01T21:44:11.752420"
+      },
+      {
+        "qq": "10005",
+        "nickname": "小明",
+        "score": 34018,
+        "timestamp": "2026-02-01T21:44:11.752420"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "小明",
+        "qq": "10005",
+        "score": 34018,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 23836,
+        "diff_from_first": 10.2
+      },
+      {
+        "rank": 3,
+        "nickname": "西风",
+        "qq": "10003",
+        "score": 21180,
+        "diff_from_first": 12.8
+      },
+      {
+        "rank": 4,
+        "nickname": "小红",
+        "qq": "10006",
+        "score": 20966,
+        "diff_from_first": 13.1
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1040",
+    "settle_time": "2026-01-31T21:44:11.752432",
+    "created_at": "2026-01-31T21:14:11.752432",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 22077,
+        "timestamp": "2026-01-31T21:44:11.752432"
+      },
+      {
+        "qq": "10006",
+        "nickname": "小红",
+        "score": 24743,
+        "timestamp": "2026-01-31T21:44:11.752432"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 19850,
+        "timestamp": "2026-01-31T21:44:11.752432"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 33330,
+        "timestamp": "2026-01-31T21:44:11.752432"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 33330,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "小红",
+        "qq": "10006",
+        "score": 24743,
+        "diff_from_first": 8.6
+      },
+      {
+        "rank": 3,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 22077,
+        "diff_from_first": 11.3
+      },
+      {
+        "rank": 4,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 19850,
+        "diff_from_first": 13.5
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1041",
+    "settle_time": "2026-01-30T21:44:11.752444",
+    "created_at": "2026-01-30T21:14:11.752444",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 19323,
+        "timestamp": "2026-01-30T21:44:11.752444"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 19530,
+        "timestamp": "2026-01-30T21:44:11.752444"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 22454,
+        "timestamp": "2026-01-30T21:44:11.752444"
+      },
+      {
+        "qq": "10005",
+        "nickname": "小明",
+        "score": 38693,
+        "timestamp": "2026-01-30T21:44:11.752444"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "小明",
+        "qq": "10005",
+        "score": 38693,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 22454,
+        "diff_from_first": 16.2
+      },
+      {
+        "rank": 3,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 19530,
+        "diff_from_first": 19.2
+      },
+      {
+        "rank": 4,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 19323,
+        "diff_from_first": 19.4
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1042",
+    "settle_time": "2026-01-29T21:44:11.752456",
+    "created_at": "2026-01-29T21:14:11.752456",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 23354,
+        "timestamp": "2026-01-29T21:44:11.752456"
+      },
+      {
+        "qq": "10005",
+        "nickname": "小明",
+        "score": 29353,
+        "timestamp": "2026-01-29T21:44:11.752456"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 20565,
+        "timestamp": "2026-01-29T21:44:11.752456"
+      },
+      {
+        "qq": "10007",
+        "nickname": "小张",
+        "score": 26728,
+        "timestamp": "2026-01-29T21:44:11.752456"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "小明",
+        "qq": "10005",
+        "score": 29353,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "小张",
+        "qq": "10007",
+        "score": 26728,
+        "diff_from_first": 2.6
+      },
+      {
+        "rank": 3,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 23354,
+        "diff_from_first": 6.0
+      },
+      {
+        "rank": 4,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 20565,
+        "diff_from_first": 8.8
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1043",
+    "settle_time": "2026-01-28T21:44:11.752468",
+    "created_at": "2026-01-28T21:14:11.752468",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 21194,
+        "timestamp": "2026-01-28T21:44:11.752468"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 22949,
+        "timestamp": "2026-01-28T21:44:11.752468"
+      },
+      {
+        "qq": "10003",
+        "nickname": "西风",
+        "score": 30504,
+        "timestamp": "2026-01-28T21:44:11.752468"
+      },
+      {
+        "qq": "10006",
+        "nickname": "小红",
+        "score": 25353,
+        "timestamp": "2026-01-28T21:44:11.752468"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "西风",
+        "qq": "10003",
+        "score": 30504,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "小红",
+        "qq": "10006",
+        "score": 25353,
+        "diff_from_first": 5.2
+      },
+      {
+        "rank": 3,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 22949,
+        "diff_from_first": 7.6
+      },
+      {
+        "rank": 4,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 21194,
+        "diff_from_first": 9.3
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1044",
+    "settle_time": "2026-01-27T21:44:11.752480",
+    "created_at": "2026-01-27T21:14:11.752480",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 27408,
+        "timestamp": "2026-01-27T21:44:11.752480"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 21783,
+        "timestamp": "2026-01-27T21:44:11.752480"
+      },
+      {
+        "qq": "10001",
+        "nickname": "东风",
+        "score": 30985,
+        "timestamp": "2026-01-27T21:44:11.752480"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 19824,
+        "timestamp": "2026-01-27T21:44:11.752480"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "东风",
+        "qq": "10001",
+        "score": 30985,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 27408,
+        "diff_from_first": 3.6
+      },
+      {
+        "rank": 3,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 21783,
+        "diff_from_first": 9.2
+      },
+      {
+        "rank": 4,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 19824,
+        "diff_from_first": 11.2
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1045",
+    "settle_time": "2026-01-26T21:44:11.752493",
+    "created_at": "2026-01-26T21:14:11.752493",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 27581,
+        "timestamp": "2026-01-26T21:44:11.752493"
+      },
+      {
+        "qq": "10003",
+        "nickname": "西风",
+        "score": 29048,
+        "timestamp": "2026-01-26T21:44:11.752493"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 25889,
+        "timestamp": "2026-01-26T21:44:11.752493"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 17482,
+        "timestamp": "2026-01-26T21:44:11.752493"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "西风",
+        "qq": "10003",
+        "score": 29048,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 27581,
+        "diff_from_first": 1.5
+      },
+      {
+        "rank": 3,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 25889,
+        "diff_from_first": 3.2
+      },
+      {
+        "rank": 4,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 17482,
+        "diff_from_first": 11.6
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1046",
+    "settle_time": "2026-01-25T21:44:11.752504",
+    "created_at": "2026-01-25T21:14:11.752504",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 21875,
+        "timestamp": "2026-01-25T21:44:11.752504"
+      },
+      {
+        "qq": "10003",
+        "nickname": "西风",
+        "score": 25062,
+        "timestamp": "2026-01-25T21:44:11.752504"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 20620,
+        "timestamp": "2026-01-25T21:44:11.752504"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 32443,
+        "timestamp": "2026-01-25T21:44:11.752504"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 32443,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "西风",
+        "qq": "10003",
+        "score": 25062,
+        "diff_from_first": 7.4
+      },
+      {
+        "rank": 3,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 21875,
+        "diff_from_first": 10.6
+      },
+      {
+        "rank": 4,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 20620,
+        "diff_from_first": 11.8
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1047",
+    "settle_time": "2026-01-24T21:44:11.752517",
+    "created_at": "2026-01-24T21:14:11.752517",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 30532,
+        "timestamp": "2026-01-24T21:44:11.752517"
+      },
+      {
+        "qq": "10007",
+        "nickname": "小张",
+        "score": 20690,
+        "timestamp": "2026-01-24T21:44:11.752517"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 20564,
+        "timestamp": "2026-01-24T21:44:11.752517"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 28214,
+        "timestamp": "2026-01-24T21:44:11.752517"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 30532,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 28214,
+        "diff_from_first": 2.3
+      },
+      {
+        "rank": 3,
+        "nickname": "小张",
+        "qq": "10007",
+        "score": 20690,
+        "diff_from_first": 9.8
+      },
+      {
+        "rank": 4,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 20564,
+        "diff_from_first": 10.0
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1048",
+    "settle_time": "2026-01-23T21:44:11.752528",
+    "created_at": "2026-01-23T21:14:11.752528",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 27923,
+        "timestamp": "2026-01-23T21:44:11.752528"
+      },
+      {
+        "qq": "10007",
+        "nickname": "小张",
+        "score": 29036,
+        "timestamp": "2026-01-23T21:44:11.752528"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 21744,
+        "timestamp": "2026-01-23T21:44:11.752528"
+      },
+      {
+        "qq": "10003",
+        "nickname": "西风",
+        "score": 21297,
+        "timestamp": "2026-01-23T21:44:11.752528"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "小张",
+        "qq": "10007",
+        "score": 29036,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 27923,
+        "diff_from_first": 1.1
+      },
+      {
+        "rank": 3,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 21744,
+        "diff_from_first": 7.3
+      },
+      {
+        "rank": 4,
+        "nickname": "西风",
+        "qq": "10003",
+        "score": 21297,
+        "diff_from_first": 7.7
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  },
+  {
+    "session_id": "1049",
+    "settle_time": "2026-01-22T21:44:11.752539",
+    "created_at": "2026-01-22T21:14:11.752539",
+    "players": [
+      {
+        "qq": "364535376",
+        "nickname": "寿司おいしいよ",
+        "score": 27933,
+        "timestamp": "2026-01-22T21:44:11.752539"
+      },
+      {
+        "qq": "10002",
+        "nickname": "南风",
+        "score": 21554,
+        "timestamp": "2026-01-22T21:44:11.752539"
+      },
+      {
+        "qq": "10004",
+        "nickname": "北风",
+        "score": 21763,
+        "timestamp": "2026-01-22T21:44:11.752539"
+      },
+      {
+        "qq": "10008",
+        "nickname": "小李",
+        "score": 28750,
+        "timestamp": "2026-01-22T21:44:11.752539"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": 1,
+        "nickname": "小李",
+        "qq": "10008",
+        "score": 28750,
+        "diff_from_first": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "寿司おいしいよ",
+        "qq": "364535376",
+        "score": 27933,
+        "diff_from_first": 0.8
+      },
+      {
+        "rank": 3,
+        "nickname": "北风",
+        "qq": "10004",
+        "score": 21763,
+        "diff_from_first": 7.0
+      },
+      {
+        "rank": 4,
+        "nickname": "南风",
+        "qq": "10002",
+        "score": 21554,
+        "diff_from_first": 7.2
+      }
+    ],
+    "total_score": 100000,
+    "group_id": "test_group"
+  }
+]

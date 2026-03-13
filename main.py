@@ -1,24 +1,79 @@
-from astrbot.api.event import filter, AstrMessageEvent, MessageEventResult
+import os
+from pathlib import Path
+
+from astrbot.api.event import filter, AstrMessageEvent
 from astrbot.api.star import Context, Star, register
 from astrbot.api import logger
 
-@register("helloworld", "YourName", "一个简单的 Hello World 插件", "1.0.0")
-class MyPlugin(Star):
+from .core.data_manager import DataManager
+from .core.session import SessionManager
+from .core.yakuman import YakumanManager
+from .core.stats import StatsManager
+from .core.game_handler import GameHandler
+from .core.mj_router import MJCommandRouter
+from .visualization.chart_generator import ChartGenerator
+
+
+@register("mahjong_record", "麻将对局记录", "极简指令的麻将对局结算 + 数据可视化 + 役满记录", "3.0.0")
+class MahjongRecordPlugin(Star):
     def __init__(self, context: Context):
         super().__init__(context)
+        self.base_path = Path(__file__).parent
 
-    async def initialize(self):
-        """可选择实现异步的插件初始化方法，当实例化该插件类之后会自动调用该方法。"""
+        # 初始化各个模块
+        self.data_manager = DataManager(self.base_path)
+        self.session_manager = SessionManager(self.data_manager)
+        self.chart_generator = ChartGenerator(self.data_manager, self.base_path)
+        self.yakuman_mgr = YakumanManager(self.base_path, self.data_manager, self._get_nickname)
+        self.game_handler = GameHandler(self.data_manager, self.session_manager, self._get_nickname)
+        self.stats_mgr = StatsManager(self.data_manager)
+        admin_ids_env = os.getenv("MJ_ADMIN_IDS", "")
+        admin_ids = [x.strip() for x in admin_ids_env.split(",") if x.strip()]
 
-    # 注册指令的装饰器。指令名为 helloworld。注册成功后，发送 `/helloworld` 就会触发这个指令，并回复 `你好, {user_name}!`
-    @filter.command("helloworld")
-    async def helloworld(self, event: AstrMessageEvent):
-        """这是一个 hello world 指令""" # 这是 handler 的描述，将会被解析方便用户了解插件内容。建议填写。
-        user_name = event.get_sender_name()
-        message_str = event.message_str # 用户发的纯文本消息字符串
-        message_chain = event.get_messages() # 用户所发的消息的消息链 # from astrbot.api.message_components import *
-        logger.info(message_chain)
-        yield event.plain_result(f"Hello, {user_name}, 你发了 {message_str}!") # 发送一条纯文本消息
+        self.router = MJCommandRouter(
+            self.data_manager,
+            self.session_manager,
+            self.chart_generator,
+            self.yakuman_mgr,
+            self.stats_mgr,
+            self.game_handler,
+            self.html_render,
+            self._get_nickname,
+            admin_ids=admin_ids,
+        )
+
+    def _get_nickname(self, event: AstrMessageEvent) -> str:
+        """获取发送者的昵称"""
+        try:
+            return event.get_sender_name() or f"玩家{event.get_sender_id()[-4:]}"
+        except:
+            return f"玩家{event.get_sender_id()[-4:]}"
+
+    @filter.command("mj")
+    async def mj_command(self, event: AstrMessageEvent):
+        """主命令处理（转发给路由器）。"""
+        async for result in self.router.handle_mj_command(event):
+            yield result
+
+    @filter.event_message_type(filter.EventMessageType.ALL)
+    async def handle_image(self, event: AstrMessageEvent):
+        """处理图片消息（转发给路由器）。"""
+        async for result in self.router.handle_image(event, self.html_render):
+            yield result
+
+    @filter.command("mj_chart")
+    async def mj_chart(self, event: AstrMessageEvent):
+        """生成指定玩家的分数趋势图（转发给路由器）。"""
+        async for result in self.router.handle_chart(event):
+            yield result
+
+    @filter.command("mj_rank")
+    async def mj_rank(self, event: AstrMessageEvent):
+        """生成全体玩家的顺位分布统计（转发给路由器）。"""
+        async for result in self.router.handle_rank(event, "power"):
+            yield result
 
     async def terminate(self):
-        """可选择实现异步的插件销毁方法，当插件被卸载/停用时会调用。"""
+        self.session_manager.save_all()
+        self.yakuman_mgr.pending.clear()
+        logger.info("麻将插件已卸载")

@@ -76,7 +76,7 @@ class MJCommandRouter:
 【对局】
 ↓ 创建对局
 /mj new
-↓ 加入/修正对局
+↓ 加入/修正对局结算
 /mj 对局ID 分数
 示例：/mj 19 25000
 

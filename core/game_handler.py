@@ -60,7 +60,7 @@ class GameHandler:
             yield event.plain_result(f"🎴 新对局创建成功！对局ID：{session_id}\n报分请使用命令 /mj {session_id} 分数 ")
             return
 
-        # 加入/修正对局
+        # 加入/修正对局结算
         if re.match(r'^\d+$', cmd):
             if len(parts) != 3:
                 yield event.plain_result("❌ 格式错误！\n正确格式：/mj 对局ID 分数\n示例：/mj 19 25000")

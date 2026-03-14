@@ -63,7 +63,7 @@ class MJCommandRouter:
 
         if len(parts) < 2:
             yield event.plain_result(
-                "❌ 格式错误！\n使用 /mj new 创建新对局\n或 /mj 对局ID 分数 加入/修正对局\n或 /mj help 查看帮助"
+                "❌ 格式错误！\n使用 /mj new 创建新对局\n或 /mj 对局ID 分数 加入/修正对局结算\n或 /mj help 查看帮助"
             )
             return
 
